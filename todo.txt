@@ -4,9 +4,9 @@ Create App
 Set Up Autoformatting
 Set Up Tests On CI
 Set Up Automatic Deployment
+Fill In Readme
 
 In progress
-Fill In Readme
 
 Todo
 List Restaurants

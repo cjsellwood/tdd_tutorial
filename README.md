@@ -1,10 +1,17 @@
-# Getting Started with Create React App
+# TDD Tutorial
+
+An app for tracking reviews of dishes at different restaurants. To help learn about test driven development.
+
+Production: <https://cjsellwood.github.io/tdd_tutorial/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm run deploy`
+Deploy to github pages production site
 
 ### `npm start`
 
