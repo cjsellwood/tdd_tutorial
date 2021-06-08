@@ -1,11 +1,11 @@
 Done
 Set Up Development Environment
-
-In progress
 Create App
 
-Todo
+In progress
 Set Up Autoformatting
+
+Todo
 Set Up Tests On CI
 Set Up Automatic Deployment
 Fill In Readme
