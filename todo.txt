@@ -1,12 +1,12 @@
 Done
 Set Up Development Environment
 Create App
-
-In progress
 Set Up Autoformatting
 
-Todo
+In progress
 Set Up Tests On CI
+
+Todo
 Set Up Automatic Deployment
 Fill In Readme
 List Restaurants
