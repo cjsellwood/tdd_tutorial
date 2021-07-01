@@ -8,7 +8,7 @@ const RestaurantScreen = () => (
     <Card>
       <CardContent>
         <Typography variant="h5">Restaurants</Typography>
-    <RestaurantList />
+        <RestaurantList />
       </CardContent>
     </Card>
   </div>
