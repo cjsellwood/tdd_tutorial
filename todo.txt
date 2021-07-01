@@ -9,9 +9,9 @@ List Restaurants
 Style App with Material Design
 
 In progress
+Show Loading and Error States
 
 Todo
-Show Loading and Error States
 Add Restaurants
 
 L0zDUEygBcByT1fkNYho28skt5Cey7pv
