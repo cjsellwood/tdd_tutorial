@@ -14,6 +14,6 @@ module.exports = {
     },
   },
   rules: {
-    "prettier/prettier": "warn",
+    'prettier/prettier': 'warn',
   },
 };
