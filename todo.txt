@@ -5,12 +5,12 @@ Set Up Autoformatting
 Set Up Tests On CI
 Set Up Automatic Deployment
 Fill In Readme
+List Restaurants
+Style App with Material Design
 
 In progress
-List Restaurants
 
 Todo
-Style App with Material Design
 Show Loading and Error States
 Add Restaurants
 
