@@ -164,12 +164,11 @@ describe('restaurants', () => {
     });
 
     describe('when save fails', () => {
-      it("rejects", () => {
+      it('rejects', () => {
         api.createRestaurant.mockRejectedValue();
         promise = store.dispatch(createRestaurant(newRestaurantName));
         return expect(promise).rejects.toBeUndefined();
-      })
-    })
-    
+      });
+    });
   });
 });
