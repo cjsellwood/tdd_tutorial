@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/tdd_tutorial/static/js/main.3dfe6cd2.chunk.js",
-    "main.js.map": "/tdd_tutorial/static/js/main.3dfe6cd2.chunk.js.map",
+    "main.js": "/tdd_tutorial/static/js/main.61a78cbc.chunk.js",
+    "main.js.map": "/tdd_tutorial/static/js/main.61a78cbc.chunk.js.map",
     "runtime-main.js": "/tdd_tutorial/static/js/runtime-main.d56c6f78.js",
     "runtime-main.js.map": "/tdd_tutorial/static/js/runtime-main.d56c6f78.js.map",
-    "static/js/2.229629e3.chunk.js": "/tdd_tutorial/static/js/2.229629e3.chunk.js",
-    "static/js/2.229629e3.chunk.js.map": "/tdd_tutorial/static/js/2.229629e3.chunk.js.map",
+    "static/js/2.d41b771b.chunk.js": "/tdd_tutorial/static/js/2.d41b771b.chunk.js",
+    "static/js/2.d41b771b.chunk.js.map": "/tdd_tutorial/static/js/2.d41b771b.chunk.js.map",
     "index.html": "/tdd_tutorial/index.html",
-    "static/js/2.229629e3.chunk.js.LICENSE.txt": "/tdd_tutorial/static/js/2.229629e3.chunk.js.LICENSE.txt"
+    "static/js/2.d41b771b.chunk.js.LICENSE.txt": "/tdd_tutorial/static/js/2.d41b771b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d56c6f78.js",
-    "static/js/2.229629e3.chunk.js",
-    "static/js/main.3dfe6cd2.chunk.js"
+    "static/js/2.d41b771b.chunk.js",
+    "static/js/main.61a78cbc.chunk.js"
   ]
 }
