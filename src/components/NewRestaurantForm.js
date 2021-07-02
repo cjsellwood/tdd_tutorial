@@ -1,15 +1,17 @@
 import {useState} from 'react';
-import {connect} from "react-redux";
+import {connect} from 'react-redux';
 import TextField from '@material-ui/core/TextField';
 import Button from '@material-ui/core/Button';
-import {createRestaurant} from "../store/restaurants/actions"
+import {createRestaurant} from '../store/restaurants/actions';
 
 export const NewRestaurantForm = ({createRestaurant}) => {
   const [name, setName] = useState('');
 
   const handleSubmit = e => {
     e.preventDefault();
-    createRestaurant(name);
+    createRestaurant(name).then(() => {
+      setName('');
+    });
   };
 
   return (
@@ -33,13 +35,10 @@ export const NewRestaurantForm = ({createRestaurant}) => {
   );
 };
 
-const mapStateToProps = (state) => ({
-  
-})
+const mapStateToProps = state => ({});
 
 const mapDispatchToProps = {
-  createRestaurant
-}
-
+  createRestaurant,
+};
 
 export default connect(mapStateToProps, mapDispatchToProps)(NewRestaurantForm);
