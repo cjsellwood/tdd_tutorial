@@ -8,10 +8,11 @@ Fill In Readme
 List Restaurants
 Style App with Material Design
 Show Loading and Error States
+Add Restaurants
 
 In progress
 
 Todo
-Add Restaurants
 
+API key
 L0zDUEygBcByT1fkNYho28skt5Cey7pv
