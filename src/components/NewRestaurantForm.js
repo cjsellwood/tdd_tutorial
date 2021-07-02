@@ -1,6 +1,8 @@
 import {useState} from 'react';
+import {connect} from "react-redux";
 import TextField from '@material-ui/core/TextField';
 import Button from '@material-ui/core/Button';
+import {createRestaurant} from "../store/restaurants/actions"
 
 export const NewRestaurantForm = ({createRestaurant}) => {
   const [name, setName] = useState('');
@@ -31,4 +33,13 @@ export const NewRestaurantForm = ({createRestaurant}) => {
   );
 };
 
-export default NewRestaurantForm;
+const mapStateToProps = (state) => ({
+  
+})
+
+const mapDispatchToProps = {
+  createRestaurant
+}
+
+
+export default connect(mapStateToProps, mapDispatchToProps)(NewRestaurantForm);
